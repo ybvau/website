@@ -1,4 +1,4 @@
-baseURL = "bryanhj.com"
+baseURL = "https://www.bryanhj.com/"
 languageCode = "en-us"
 title = "my goddamn website"
 theme = "ananke"
