@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>my goddamn website</title>
-    <link>http://example.org/</link>
+    <link>https://www.bryanhj.com/</link>
     <description>Recent content on my goddamn website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 13 Mar 2021 19:17:43 -0500</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.bryanhj.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>01</title>
-      <link>http://example.org/posts/01/</link>
+      <link>https://www.bryanhj.com/posts/01/</link>
       <pubDate>Sat, 13 Mar 2021 19:17:43 -0500</pubDate>
       
-      <guid>http://example.org/posts/01/</guid>
-      <description></description>
+      <guid>https://www.bryanhj.com/posts/01/</guid>
+      <description>hi</description>
     </item>
     
   </channel>
