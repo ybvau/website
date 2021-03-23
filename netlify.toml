@@ -1,3 +1,4 @@
+# netlify.toml
 [build]
-publish = "public"
-command = "--config-file ./mkdocs.yml"
+  command = "mkdocs build"
+  publish = "site"
